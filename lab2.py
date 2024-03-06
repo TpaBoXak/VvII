@@ -1,4 +1,3 @@
-import sys
 import enum
 import heapq
 import psutil
